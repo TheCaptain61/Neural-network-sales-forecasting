@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\connectiondialog.o
+./debug\prolong.o
+./debug\qcustomplot.o
+./debug\categories.o
+./debug\products.o
+./debug\qrc_rsc.o
+./debug\moc_mainwindow.o
+./debug\moc_connectiondialog.o
+./debug\moc_prolong.o
+./debug\moc_qcustomplot.o
+./debug\moc_categories.o
+./debug\moc_products.o
+);

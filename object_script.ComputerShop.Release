@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\connectiondialog.o
+./release\prolong.o
+./release\qcustomplot.o
+./release\categories.o
+./release\products.o
+./release\qrc_rsc.o
+./release\moc_mainwindow.o
+./release\moc_connectiondialog.o
+./release\moc_prolong.o
+./release\moc_qcustomplot.o
+./release\moc_categories.o
+./release\moc_products.o
+);

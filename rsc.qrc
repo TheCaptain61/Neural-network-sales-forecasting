@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ico/agt_update_misc_7316.ico</file>
+        <file>ico/buttons_21_6150.ico</file>
+        <file>ico/edit_add_2484.ico</file>
+    </qresource>
+</RCC>
